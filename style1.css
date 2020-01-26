@@ -1,0 +1,80 @@
+.picContainer {
+    position:relative;
+    margin-left: 10pc;
+    margin-right: 5pc;
+}
+.pic1{
+    border-bottom: inset;
+    border-bottom-width: 10px;
+    border-bottom-color: floralwhite ;
+    border-bottom-style: double;
+    margin-right: 8pc;
+    border-radius: 50%;
+     
+     
+}
+.pic2
+ {position:absolute; 
+    top: 186px;
+      
+    left:25px;}
+.edtbtn{
+    float: right;
+    top: 100px ;
+    left: 250px;
+}
+.prof{
+    float: bottom;
+     top: 100px;
+}
+.place{
+    color:gray;
+}
+.summ{
+    text-align: inherit;
+    top: 100px;
+      
+}
+
+.iti {
+   
+    height: 15px;
+    width: 15px;
+     
+}
+.icn{
+    color: dimgrey;
+}
+.lne{
+   top: 2000px;
+}
+
+.desc {position: absolute;
+    margin-left: 10pc;
+    margin-right: 10pc;
+    top: 500px;}
+
+.end { 
+    position: relative;   
+    margin-left: 10pc;
+    margin-right: 10pc;
+    top: 300px;}
+.show {
+    text-align: center;
+    font: bolder;
+}
+ 
+
+.embed {
+    border:none;
+       
+    width: 7pc;
+    height: 0pc;
+}
+.res{
+    align-self: auto;
+    display: block;
+    width: 50%;
+    flex-wrap: wrap;
+    border-color: black;
+}
